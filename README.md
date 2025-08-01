@@ -23,11 +23,11 @@ Créée avec soin pour maximiser la production et inclut un **système de stocka
 ## 🧱 Blocs utilisés (à compléter)
 
 Voici une estimation à affiner selon ta version :
-- Pistons : ~???
-- Observers : ~???
-- Hopper minecarts : ~???
-- Rails : ~???
-- Coffres : ~???
+- Pistons : 69888
+- Observers : 1
+- Hopper : 2082
+- chest : 1664
+- dirt : 69836
 - Blocs de construction, redstone, etc.
 
 ## 🗄️ Espace de stockage intégré
